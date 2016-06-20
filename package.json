@@ -1,0 +1,23 @@
+{
+  "name": "koa-nunjucks-x",
+  "version": "1.0.0",
+  "description": "The Koa middleware for Nunjucks, with custom filters and tags supporting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KohPoll/koa-nunjucks-x.git"
+  },
+  "keywords": [
+    "Koa",
+    "Nunjucks"
+  ],
+  "author": "kohpoll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KohPoll/koa-nunjucks-x/issues"
+  },
+  "homepage": "https://github.com/KohPoll/koa-nunjucks-x#readme"
+}
